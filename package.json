@@ -1,0 +1,10 @@
+{
+  "name": "semaphore",
+  "version": "1.0.0",
+  "main": "./js/src/Semaphore",
+  "dependencies": {
+    "factory": "aleclarson/factory#1.0.0",
+    "io": "aleclarson/io#1.0.0",
+    "type-utils": "aleclarson/type-utils#1.0.0"
+  }
+}
